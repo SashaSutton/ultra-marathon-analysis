@@ -11,8 +11,8 @@ The key goals of this analysis are:
 
 ## Files in This Repository
 ultra-marathon-analysis_2020/
-TWO_CENTURIES_OF_UM_RACES.csv   # Raw dataset from Kaggle
-ultra_marathons_analysis_2020.ipynb   # Jupyter Notebook with analysis
+- TWO_CENTURIES_OF_UM_RACES.csv   # Raw dataset from Kaggle
+- ultra_marathons_analysis_2020.ipynb   # Jupyter Notebook with analysis
 
 
 ### File Descriptions:
