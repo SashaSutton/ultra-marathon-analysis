@@ -10,7 +10,7 @@ The key goals of this analysis are:
 - To investigate seasonal variations in athlete speeds.
 
 ## Files in This Repository
-ultra-marathon-analysis_2020/
+ultra-marathon-analysis/
 - TWO_CENTURIES_OF_UM_RACES.csv   # Raw dataset from Kaggle
 - ultra_marathons_analysis_2020.ipynb   # Jupyter Notebook with analysis
 
