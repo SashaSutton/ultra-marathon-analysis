@@ -10,9 +10,9 @@ The key goals of this analysis are:
 - To investigate seasonal variations in athlete speeds.
 
 ## Files in This Repository
-ultra-marathon-analysis/
-├── TWO_CENTURIES_OF_UM_RACES.csv   # Raw dataset from Kaggle
-├── ultra_marathons_usa_50km_50mi_2020.ipynb   # Jupyter Notebook with analysis
+ultra-marathon-analysis_2020/
+TWO_CENTURIES_OF_UM_RACES.csv   # Raw dataset from Kaggle
+ultra_marathons_usa_50km_50mi_2020.ipynb   # Jupyter Notebook with analysis
 
 
 ### File Descriptions:
@@ -33,7 +33,7 @@ The dataset is sourced from Kaggle:
 To run the notebook:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ultra-marathon-analysis.git
+   git clone https://github.com/yourusername/Breadcrumbsultra-marathon-analysis_2020.git
 2. Install Python and the required libraries (if not already installed):
   . pandas
   . seaborn
