@@ -33,7 +33,7 @@ The dataset is sourced from Kaggle:
 To run the notebook:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Breadcrumbsultra-marathon-analysis.git
+   git clone https://github.com/yourusername/ultra-marathon-analysis.git
 2. Install Python and the required libraries (if not already installed):
   . pandas
   . seaborn
