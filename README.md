@@ -12,7 +12,7 @@ The key goals of this analysis are:
 ## Files in This Repository
 ultra-marathon-analysis_2020/
 TWO_CENTURIES_OF_UM_RACES.csv   # Raw dataset from Kaggle
-ultra_marathons_usa_50km_50mi_2020.ipynb   # Jupyter Notebook with analysis
+ultra_marathons_analysis_2020.ipynb   # Jupyter Notebook with analysis
 
 
 ### File Descriptions:
@@ -20,7 +20,7 @@ ultra_marathons_usa_50km_50mi_2020.ipynb   # Jupyter Notebook with analysis
    - The raw dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running).
    - Contains information about ultra marathon events, including race distances, athlete demographics, and performance metrics.
 
-2. **ultra_marathons_usa_50km_50mi_2020.ipynb**:
+2. **ultra_marathon_analysis_2020.ipynb**:
    - The Jupyter Notebook containing the full data analysis process:
      - Data cleaning: Filtering for relevant events, handling missing values, and standardising data.
      - Data visualisation: Exploring performance trends by age, gender, and season.
@@ -49,8 +49,8 @@ To run the notebook:
   Winter races exhibit faster average speeds compared to summer races.
 
 ## Acknowledgements
-dataset: provided by aiaiaidavid on Kaggle.
-tools used: Jupyter Notebook, pandas and seaborn.
+- Dataset: provided by aiaiaidavid on Kaggle.
+- Tools used: Jupyter Notebook, pandas and seaborn.
 
 
    
